@@ -1,3 +1,5 @@
+# shellscripts-with-vagrant
+
 ## Create Your First Vagrant Project
 
 To create the Vagrant configuration file (Vagrantfile), run the "vagrant init <BOX_NAME>" command. Be sure to be in Vagrant project directory you just created. Also, use the "jasonc/centos7" box you downloaded earlier.
@@ -303,4 +305,3 @@ In upcoming projects you'll be working more with Vagrant, virtual machines, IP a
 ```
 vagrant halt
 ```
-# shellscripts-with-vagrant
