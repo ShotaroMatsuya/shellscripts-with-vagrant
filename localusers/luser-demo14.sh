@@ -11,3 +11,6 @@ then
 fi
 
 cut -d '"' -f 2 ${LOG_FILE} | cut -d ' ' -f 2 | sort | uniq -c | sort -n | tail -3
+exit 0
+# awk version
+# awk '{print $7}' ${LOG_FILE} | sort | uniq -c | sort -n | tail -3
