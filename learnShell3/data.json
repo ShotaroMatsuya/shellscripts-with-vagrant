@@ -1,0 +1,52 @@
+[
+  {
+      "id": 32,
+      "name": "taguchi",
+      "scores": [52, 33, 84],
+      "skills": [
+          {"area": "html", "level": 4},
+          {"area": "css", "level": 5},
+          {"area": "javascript", "level": 3}
+      ]
+  },
+  {
+      "id": 34,
+      "name": "hayashi",
+      "scores": [80, 32, 38],
+      "skills": [
+          {"area": "html", "level": 4},
+          {"area": "css", "level": 4},
+          {"area": "javascript", "level": 4},
+          {"area": "php", "level": 2}
+      ]
+  },
+  {
+      "id": 42,
+      "name": "kikuchi",
+      "scores": [91, 42, 33],
+      "skills": [
+          {"area": "html", "level": 4},
+          {"area": "css", "level": 5}
+      ]
+  },
+  {
+      "id": 48,
+      "name": "kobayashi",
+      "scores": [95, 22],
+      "skills": [
+          {"area": "html", "level": 3},
+          {"area": "css", "level": 4},
+          {"area": "javascript", "level": 3}
+      ]
+  },
+  {
+      "id": 48,
+      "name": "kojima",
+      "scores": [24, 32, 22, 25],
+      "skills": [
+          {"area": "html", "level": 3},
+          {"area": "css", "level": 2},
+          {"area": "php", "level": 5}
+      ]
+  }
+]
